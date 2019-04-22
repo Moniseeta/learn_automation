@@ -1,0 +1,2 @@
+Ruby Lambda:
+https://www.honeybadger.io/blog/using-lambdas-in-ruby/
