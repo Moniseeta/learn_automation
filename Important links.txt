@@ -1,2 +1,3 @@
 Ruby Lambda:
 https://www.honeybadger.io/blog/using-lambdas-in-ruby/
+https://blog.appsignal.com/2018/09/04/ruby-magic-closures-in-ruby-blocks-procs-and-lambdas.html
