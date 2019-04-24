@@ -1,3 +1,7 @@
 Ruby Lambda:
 https://www.honeybadger.io/blog/using-lambdas-in-ruby/
 https://blog.appsignal.com/2018/09/04/ruby-magic-closures-in-ruby-blocks-procs-and-lambdas.html
+
+
+rails application creation:
+https://medium.freecodecamp.org/lets-create-an-intermediate-level-ruby-on-rails-application-d7c6e997c63f
